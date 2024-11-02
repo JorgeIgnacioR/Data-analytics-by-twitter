@@ -1,0 +1,7 @@
+requests
+requests-oauthlib
+pandas
+textblob
+seaborn
+matplotlib
+streamlit
